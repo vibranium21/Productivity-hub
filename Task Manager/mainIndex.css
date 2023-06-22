@@ -1,0 +1,16 @@
+#Manager{
+    border: 1px solid;
+    height: 50px;
+    width: 400px;
+    background-color:antiquewhite;
+    position:static;
+
+}
+
+.colorcombo1 {
+    color:red;
+    background-color:green;
+}
+body {
+   background-color: rgb(192, 214, 233); 
+}
